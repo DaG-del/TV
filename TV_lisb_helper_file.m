@@ -1,6 +1,7 @@
 lf = 1.5; % m - length from center to front
 lr = 1.5; % m - length from center to rear
-tf = 1; % m - track width from center to one edge
+tf = 1; % m - track width from center to one edge (front)
+tr = 1; % m - track width from center to one edge (rear)
 wr = 0.22; % m - wheel radius
 C3 = 0.52; % N/kg - coefficient for dry asphalt
 C2 = 23.99; % N/kg - coefficient for dry asphalt
