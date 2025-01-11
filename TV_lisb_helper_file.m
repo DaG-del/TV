@@ -12,3 +12,7 @@ C_roll = 0.01; % none - rolling resistance coefficient for dry asphalt
 rho = 1.223; % kg/m^3 - air density
 frontal_area = 1.35; % m^2 frontal area
 C_d = 0.89; % aerodynamic drag coefficient
+I_w = 1.5; % Kg m^2 - inertia of the wheel
+b = 0.1; % Kg m^2 - damping factor of the wheel
+Izz = 3000; % Kg m^2 - Inertia of car about z-axis
+g = 9.8; % m/s^2 - acceleration due to gravity
